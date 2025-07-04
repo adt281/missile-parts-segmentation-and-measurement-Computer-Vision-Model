@@ -20,10 +20,8 @@ missile-parts-segmentation-and-measurement-Computer-Vision-Model/
 │   └── config.yaml                  # Detectron2 segmentation model configuration
 ├── notebooks/
 │   └── computer_vision.ipynb        # Full pipeline including segmentation & measurements
-├── samples/
-│   └── final_output_with_edges.png # Example output: Only segmentation output is displayed,
-|                                                     for measurements output please vitit notebooks/computer_vision.ipynb 
-│   └── masked_final.png            # Segmentation mask overlay
+├── samples/                         # Example output: Only segmentation output is displayed,
+|                                                     for measurements output please visit notebooks/computer_vision.ipynb
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # Project documentation
 ```
